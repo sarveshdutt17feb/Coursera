@@ -111,7 +111,7 @@ function UpdateCard({course, setCourse}) {
                         description: description,
                         imageLink: image,
                         published: true,
-                        price
+                        price:price,
                     }, {
                         headers: {
                             "Content-type": "application/json",
