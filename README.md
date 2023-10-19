@@ -1,3 +1,5 @@
 # Coursera
 course selling Application
-Hi there
+
+This appilcation contains features for course management and updation for admin,
+authentication.
