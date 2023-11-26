@@ -58,8 +58,8 @@ Access the App:
 <br>
 Open a web browser and go to http://localhost:5173 to access the Do_IT App.
 <br>
+<br>
 Features:
-<br><br>
 <br>
 Admin/User signup and login
 <br>
@@ -76,7 +76,7 @@ Great UI and dark,light modes for great user experience
 <br>
 Future Work:
 <br>
-<br>
+
 Admin/User can upload their profile picture
 <br>
 Admin can add courses( videos, pdfs) to the course content
