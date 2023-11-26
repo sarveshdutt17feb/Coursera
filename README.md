@@ -14,7 +14,7 @@ Follow these steps to set up the ToDo App on your local environment:
 
 Clone the Repository:
 
-git clone https://github.com/durgaprasad118/DevSikShaHub.git
+git clone https://github.com/sarveshdutt17feb/skillify.git
 
 cd DevSikShaHub
 Backend Setup:
