@@ -21,7 +21,7 @@ Clone the Repository:
 
 git clone https://github.com/sarveshdutt17feb/skillify.git
 <br><br>
-cd DevSikShaHub
+cd skillify 
 Backend Setup:
 
 Navigate to the Server directory:
