@@ -4,7 +4,7 @@
 <br>
 Skillify is an online learning platform that delivers educational courses over the internet. The main purpose of e-learning apps is to facilitate teaching adn learning anytime, anywhere through digital devices.
 
-* \Tech Stack Used:
+* Tech Stack Used:
 <br>
 Frontend: React, Recoil, RTK Query, Tailwind CSS
 <br>
