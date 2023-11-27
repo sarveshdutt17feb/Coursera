@@ -1,10 +1,10 @@
 # Skillify
 <br>
-*Description:
+* Description:
 <br>
 Skillify is an online learning platform that delivers educational courses over the internet. The main purpose of e-learning apps is to facilitate teaching adn learning anytime, anywhere through digital devices.
 
-* Tech Stack Used:
+* \Tech Stack Used:
 <br>
 Frontend: React, Recoil, RTK Query, Tailwind CSS
 <br>
@@ -12,7 +12,7 @@ Backend: Node.js, Express.js, MongoDB, JSON Web Tokens (JWT) for authentication
 <br>
 Others: react-icons, Sonner
 
-"*" Installation:
+* Installation:
 <br>
 Follow these steps to set up the ToDo App on your local environment:
 <br>
